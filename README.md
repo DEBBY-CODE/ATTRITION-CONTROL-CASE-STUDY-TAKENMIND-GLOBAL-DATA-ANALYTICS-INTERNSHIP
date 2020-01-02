@@ -11,7 +11,7 @@ The data is for company X which is trying to control attrition. There are two se
 * Salary
 * Whether the employee has left
  
-Objective
+**Objective**
 1. What type of employees are leaving?
 2. Determine which employees are prone to leave next. 
 
